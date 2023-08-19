@@ -6,3 +6,7 @@ For this one I will keep it simple and just make a Logistic regression based ima
 
 So lets identify them.
 
+
+
+More indepth overview soon
+
